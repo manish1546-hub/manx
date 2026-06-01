@@ -66,9 +66,9 @@ export const Home = (): JSX.Element => {
               <div className="relative">
                 {/* MANISH badge — above-left corner of PORT */}
                 <motion.div
-                  initial={{ opacity: 0, x: -20, y: -10 }}
-                  animate={{ opacity: 1, x: 0, y: 0 }}
-                  transition={{ duration: 0.8, delay: 0.6, ease: [0.22, 1, 0.36, 1] }}
+                  initial={{ }}
+                  animate={{ }}
+                  transition={{  }}
                   className="absolute -top-[44px] left-0 z-40"
                 >
                   <div className="relative h-[44px] w-[160px] sm:w-[200px] md:w-[220px]">
